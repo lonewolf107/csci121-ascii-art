@@ -44,7 +44,7 @@ const ART = [
    "credit_text": "akg",
    "credit_url": "https://www.asciiart.eu/animals/marsupials"},
   {"title": "Rose",
-   "filename": "rose.text",
+   "filename": "rose.txt",
    "credit_text": "myflix",
    "credit_url": "https://www.asciiart.eu/plants/roses"},
 ];
